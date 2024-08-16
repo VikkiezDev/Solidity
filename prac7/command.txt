@@ -1,0 +1,11 @@
+    1  python -m venv venv
+    2  source venv/bin/activate
+    3  ls
+   31  node -v
+   32  npm install crypto-js
+   33  cd ..
+   34  cd prac7/
+   35  node -v
+   36  npm install crypto-js
+   37  node main.js
+   38  history > command.txt
