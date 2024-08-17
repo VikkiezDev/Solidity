@@ -1,6 +1,6 @@
 Terminal 1
 - source venv/bin/activate
-- npm install web3
+- npm install web3@1.7.0
 - npm install -g ganache-cli
 - ganache-cli --port 7545
 
@@ -8,5 +8,4 @@ Terminal 1
 Terminal 2
 - source venv/bin/activate
 - cd prac6/
-- npm install web3@1.7.0
 - node main.js
